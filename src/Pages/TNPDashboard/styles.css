@@ -6,3 +6,9 @@
     justify-content: center;
     align-items: center;
 }
+
+.tnp-func{
+    display: flex; 
+    justify-content: center;
+    margin: 0.8rem; 
+}

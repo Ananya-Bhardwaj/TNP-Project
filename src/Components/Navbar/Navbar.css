@@ -1,0 +1,8 @@
+.navbar{
+    background-color: blue;
+    color: white;
+    padding: 0.8rem; 
+    margin: 0; 
+    display: flex;
+    gap: 0.2rem; 
+}

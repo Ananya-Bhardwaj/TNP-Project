@@ -1,0 +1,26 @@
+.input-container{
+    display: flex;
+    gap: 0.8rem;
+    margin: 0.5rem; 
+    align-items: center;
+    min-width: 3rem; 
+    flex: 1; 
+    font-size: 1rem;
+}
+
+.input-container label{
+    text-align: left;
+    width: 10rem;
+}
+
+.input-container input{
+    padding: 1rem; 
+    border-radius: 1.5rem;
+    border: 0.2rem solid black;
+    background-color: aliceblue;
+    flex: 1;
+}
+
+.input-container input:hover{
+    opacity: 0.8;
+}
